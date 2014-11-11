@@ -1,0 +1,10 @@
+List of goals for this project based on current process and desired end result
+1. Fully automated process that precisely matches the current PC build process
+2. Expanding on that process to include
+  a. Verbose, stateful Logging
+  b. End of process pass/fail visual check - e.g. a change to the desktop color, write to a common log file, powershell status update on overhead montiors, etc.
+  c. Ability to run again on already prepped PC to push new apps, updates, Windoows patches and new process items e.g. update/remove common apps easily, add new patches to inventory PCs
+  d. Faster update process- Ability to create local app repos and local WSUS server for Windows Updates (SPEED LAN vs. WAN)
+  e. Ability to redirect to new repos on demand
+  f. Ability to easily interpret and change scripts without needing a high level of programming experience (Powershell 101 is needed)
+  
