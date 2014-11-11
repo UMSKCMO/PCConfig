@@ -7,4 +7,5 @@ List of goals for this project based on current process and desired end result
   d. Faster update process- Ability to create local app repos and local WSUS server for Windows Updates (SPEED LAN vs. WAN)
   e. Ability to redirect to new repos on demand
   f. Ability to easily interpret and change scripts without needing a high level of programming experience (Powershell 101 is needed)
+  g. Automatic reboot and relogin for all reboot functions until build/config process is completed
   
