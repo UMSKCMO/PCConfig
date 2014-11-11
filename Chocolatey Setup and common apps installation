@@ -1,0 +1,3 @@
+set-executionpolicy BYPASS -force
+iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))
+choco install firefox windirstat javaruntime DotNet4.5 Silverlight AdobeAIR adobeshockwaveplayer 7zip adobereader pdfcreator malwarebytes PowerShell
